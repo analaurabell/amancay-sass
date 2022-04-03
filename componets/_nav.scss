@@ -1,0 +1,8 @@
+nav{ background-color: rgb(174, 156, 180);
+    color:rgb(98, 98, 102);}
+.lin{
+        padding-left: 15px;
+         &:hover {background-color: rgb(98, 94, 121);}
+         &:active{background-color:cadetblue  
+            } 
+    }

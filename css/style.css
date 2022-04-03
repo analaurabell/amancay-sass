@@ -1,0 +1,47 @@
+nav {
+  background-color: rgb(174, 156, 180);
+  color: rgb(98, 98, 102);
+}
+
+main p {
+  background-color: rgb(229, 234, 238);
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+main {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+main div {
+  background-color: rgb(229, 234, 238);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+}
+main div h5 {
+  text-align: center;
+  color: dimgrey;
+}
+main .ig {
+  text-align: center;
+}
+
+section div h4 {
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(174, 156, 180);
+  margin-top: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.whatsapp {
+  position: relative;
+  max-width: 40px;
+}
+
+/*# sourceMappingURL=style.css.map */

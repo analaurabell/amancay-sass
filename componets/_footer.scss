@@ -1,0 +1,18 @@
+@import "../base/lista";
+
+footer{
+    background-color: nth ($colores,1) ;
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+ .whatsapp{position: fixed;
+     bottom: 5px;
+     text-align:right ;
+     margin-right: 5px;
+     margin-bottom: 5px;
+     z-index: 1;
+     max-height: 45px;
+ }
+ 
